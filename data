@@ -1,0 +1,12 @@
+{
+    "messaging_product": "whatsapp",
+    "to": "919999087276",
+    "type": "template",
+		"token": "bearegaurav",
+    "template": {
+        "name": "hello_world",
+        "language": {
+            "code": "en_US"
+        }
+    }
+}
